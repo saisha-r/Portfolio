@@ -1,8 +1,6 @@
 # Saisha Rankaduwa's Portfolio
 
-My professional coding portfolio.
-
-Welcome to my coding portfolio! 
+Welcome to my professional coding portfolio! 
 
 
 
