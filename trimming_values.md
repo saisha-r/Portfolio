@@ -13,8 +13,3 @@ for value in original:
         
 print(result)
 ~~~
-
-
-```
-
-```
