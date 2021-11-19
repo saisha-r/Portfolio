@@ -24,4 +24,4 @@ The following codes summarize data in variety of formats, such as tables, plots,
 
 Here is a [demo](https://youtu.be/1ovBBDLfGm0) I made about keyboard shortcuts in IPython Shell.
 
-For any inquiries, you can reach me at [saisha@dal.ca](mailto:saisha@dal.ca)
+Questions? Feel free to email me at [saisha@dal.ca](mailto:saisha@dal.ca).
