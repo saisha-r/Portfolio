@@ -28,3 +28,4 @@ print('The slowest rt remaining is:', round(max(rt), 2))
 
 #prints the lengths of rt and err
 print('The length of rt is', len(rt), 'and the length of err is', len(err))
+~~~
