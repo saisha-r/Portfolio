@@ -1,6 +1,6 @@
-# Converting Files into a Single Dataframe
+# Converting Files into a Single DataFrame
 
-From a folder of data files from a flanker experiment, the following codes:
+From a folder of data files from a flanker experiment, the following code:
 
 1) Imports the glob module in order to use the glob function to match file patterns
 
