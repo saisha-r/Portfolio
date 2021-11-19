@@ -3,21 +3,25 @@
 Welcome to my professional coding portfolio! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
 
 ## Data Manipulation
-To prepare data for analysis, here are codes I have written that manipulate/clean the data.
+To prepare data for analysis, here are codes that manipulate/clean data.
 
-[Removing outliers in a list](Removing_outlier_in_a_list.md)
+[Converting files into a single dataframe](converting_files_into_single_dataframe.md)
+
+[Removing an outlier in lists](removing_an_outlier_in_lists.md)
 
 [Trimming values using conditionals](trimming_values.md)
 
+## Exploratory Data Analysis
+The following codes summarize data in variety of formats, such as tables, plots, and t-tests. 
 
-[Converting files into a single DataFrame](converting_files_into_single_dataframe.md)
+[Creating a table and point plot](creating_a_table_and_point_plot.md)
 
-[Writing for loops that use the accumulator pattern](accumulator_pattern.md)
+[Creating a histogram](creating_a_histogram.md)
 
-[Creating a table and point plots for accuracy]
+[Computing t-tests](computing_t-tests.md)
 
-[Creating histograms]
+## Demo
 
-[Performing t-tests]
+Here is a [demo](https://youtu.be/1ovBBDLfGm0) I made about keyboard shortcuts in IPython Shell.
 
 For any inquiries, you can reach me at saisha@dal.ca
