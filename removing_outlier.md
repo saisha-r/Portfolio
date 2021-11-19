@@ -22,5 +22,5 @@ del err[position]
 # The 1st print statement finds the slowest RT, rounded to 2 decimal places
 # The 2nd print statement checks if the lists are the same in length
 print('The slowest rt remaining is:', round(max(rt), 2))
-print('The length of rt is', len(rt), 'and the length of err is', len(err)
+print('The length of rt is', len(rt), 'and the length of err is', len(err))
 ```
