@@ -1,6 +1,6 @@
 # Saisha Rankaduwa's Portfolio
 
-Welcome to my professional coding portfolio! To demonstrate my coding capabilities, on this page you will find examples of code I have written.
+Hello! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
 
 ## Data Manipulation
 To prepare data for analysis, here are codes that manipulate/clean data.
