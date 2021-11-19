@@ -1,5 +1,5 @@
 # Creating a Histogram
-The following codes works with reaction time (RT) data in a Flanker experiment. There was a skew in the RT data, which posed an issue for running statistics. Therefore, a inverse transformation (1/RT) was applied to make the RT data's distribution more statistically normal. Then, a histogram of the inverse-transformed RT data was plotted.
+The following code works with reaction time (RT) data in a flanker experiment. There was a skew in the RT data, which posed an issue for running statistics. Therefore, a inverse transformation (i.e., 1/RT) was applied to make the RT data's distribution more statistically normal. Then, a histogram of the inverse-transformed RT data was plotted.
 
 ```python
 # Inverse-transform the RT data
