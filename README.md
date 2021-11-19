@@ -1,9 +1,9 @@
 # Saisha Rankaduwa's Portfolio
 
-Hello and welcome to my professional coding portfolio! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
+Welcome to my professional coding portfolio! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
 
-## Data Cleaning
-Below you will find examples of how I prepared data for data analysis.
+## Data Manipulation
+To prepare data for analysis, here are codes I have written that manipulate/clean the data.
 
 [Removing outliers in a list](Removing_outlier_in_a_list.md)
 
