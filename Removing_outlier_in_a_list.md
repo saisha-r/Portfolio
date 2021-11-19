@@ -1,4 +1,4 @@
-## Removing outliers in a list
+## Removing an outlier in a list
 
 The following code identifies the longest reaction time (RT) in the data and removes this value from both the RT data and the error data.
 
@@ -28,9 +28,5 @@ del err[position]
 print('The slowest rt remaining is:', round(max(rt), 2))
 
 #prints the lengths of rt and err
-print('The length of rt is', len(rt), 'and the length of err is', len(err))
-
-
-```
-
-```
+print('The length of rt is', len(rt), 'and the length of err is', len(err)
+~~~
