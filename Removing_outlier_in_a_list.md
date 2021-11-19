@@ -1,9 +1,7 @@
-## Removing an outlier in a list
-
+## Removing an outlier in lists
 The following code identifies the longest reaction time (RT) in the data and removes this value from both the RT data and the error data.
 
 ~~~python
-
 #The lists
 rt = [0.394252808, 0.442094359, 0.534764366, 0.565906723, 0.570404592, 
       0.486154719, 0.518792127, 0.844916827, 0.495622859, 0.476159436, 
@@ -14,19 +12,13 @@ rt = [0.394252808, 0.442094359, 0.534764366, 0.565906723, 0.570404592,
 err = [False, False, True, False, False, False, False, False, True, False, 
        False, True, False, False, False, False, True, True, True, False, 
        ]
-
-#Finds the position (index) of the slowest RT in the data
+       
+#Finds the outlier and removes it
 position = rt.index(max(rt))
-
-#Removes that slowest RT value from the list rt
 del rt[position]
-
-#Removes the data from err
 del err[position]
 
-#Prints the slowest RT remaining, rounded to two decimal places
+#The last two codes check that the outlier has been removed
 print('The slowest rt remaining is:', round(max(rt), 2))
-
-#prints the lengths of rt and err
 print('The length of rt is', len(rt), 'and the length of err is', len(err)
 ~~~
