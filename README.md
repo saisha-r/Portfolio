@@ -7,6 +7,8 @@ To prepare data for analysis, here are codes that manipulate/clean data.
 
 [Converting files into a single dataframe](converting_files_into_single_dataframe.md)
 
+[Removing an outlier in lists](removing_an_outlier_in_lists.md)
+
 [Trimming values using conditionals](trimming_values.md)
 
 ## Exploratory Data Analysis
