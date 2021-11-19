@@ -23,3 +23,4 @@ t, p = stats.ttest_rel(fc_si, fc_sc)
 
 print('Simon-compatible vs incompatible (Flanker congruent trials only) t =', str(round(t, 2)),
       ' p = ', str(round(p, 4)))
+```
