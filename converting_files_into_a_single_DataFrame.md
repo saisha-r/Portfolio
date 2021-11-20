@@ -14,7 +14,6 @@ From a folder of data files from a flanker experiment, the following code:
 
 
 ```python
-import pandas as pd
 import glob
 print('All the files that start with s:', glob.glob('s??/s??.txt'))
 df_list = [pd.read_csv(f, sep='\t') for f in glob.glob('s??/s??.txt')]
