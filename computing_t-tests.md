@@ -40,8 +40,3 @@ print('Simon-compatible vs incompatible (Flanker congruent trials only) t =', st
 
 <img src="ttest2.png" alt="ttest2"/>
  <br />
-
-
-```
-
-```
