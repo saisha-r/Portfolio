@@ -1,4 +1,4 @@
-## Removing an outlier in a list
+## Removing an Outlier in a List
 In a list containing reaction times (RT), there is one value that is about 1 second longer than most of the data. The following code identifies this outlier in the data and removes this value from the RT data.
 
 
