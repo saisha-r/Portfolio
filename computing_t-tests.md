@@ -2,9 +2,13 @@
 The following codes work with aggregated data in a pandas DataFrame (df_agg) from a flanker-Simon experiment.
 
 There are four conditions:
+
 1) congruent (flanker)
+
 2) incongruent (flanker)
+
 3) compatible (Simon)
+
 4) incompatible (Simon)
 
 Three variables/pandas Series are created and each contain only the log RT data for one combination of flanker and Simon conditions (e.g., `fc_si` refers to flanker congruent and Simon incompatible). Then, 2 t-tests are performed on the log RT data.
