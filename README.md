@@ -17,7 +17,7 @@ To prepare data for analysis, here are codes that manipulate/clean data.
 ## Exploratory Data Analysis
 The following codes summarize data in variety of formats, such as tables, plots, and t-tests. 
 
-[Creating a Table and Point Plot](descriptive_statistics_table_and_point_plot.md)
+[Creating a Descriptive Statistics Table and Point Plot](descriptive_statistics_table_and_point_plot.md)
 
 [Creating a Histogram](creating_a_histogram.md)
 
