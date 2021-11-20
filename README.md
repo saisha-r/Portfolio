@@ -5,7 +5,7 @@ Hello! I am a Master's student in Psychology and Neuroscience at Dalhousie Unive
 ## Data Manipulation
 To prepare data for analysis, here are codes that manipulate/clean data.
 
-[Converting Files into a Single DataFrame](converting_files_into_single_dataframe.md)
+[Converting Files into a Single DataFrame](converting_files_into_single_DataFrame.md)
 
 [Removing an Outlier in a List](removing_an_outlier_in_a_list.md)
 
