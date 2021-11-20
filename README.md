@@ -9,7 +9,7 @@ To prepare data for analysis, here are codes that manipulate/clean data.
 
 [Removing an Outlier in a List](removing_an_outlier_in_a_list.md)
 
-[Trimming Values With Conditionals](trimming_values_with_conditionals.md)
+[Trimming Values with Conditionals](trimming_values_with_conditionals.md)
 
 ## Exploratory Data Analysis
 The following codes summarize data in variety of formats, such as tables, plots, and t-tests. 
