@@ -1,5 +1,8 @@
 # Saisha Rankaduwa's Portfolio
 
+<img src="saisha.jpg" alt="saisha" width="400"/>
+ <br />
+
 Hello! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
 
 ## Data Manipulation
