@@ -5,7 +5,7 @@
 
 Hello! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
 
-## Data Preparation
+## Preparation for Data Analysis
 Here is a code that creates a single pandas DataFrame for data analysis.
 
 [Converting Files into a Single DataFrame](converting_files_into_a_single_DataFrame.md)
