@@ -5,12 +5,10 @@
 
 Hello! I am a Master's student in Psychology and Neuroscience at Dalhousie University. To demonstrate my coding capabilities, on this page you will find examples of code I have written.
 
-## Data Manipulation
-To prepare data for analysis, here are codes that manipulate/clean data.
+## Data Preparation
+Here is a code that creates a single pandas DataFrame for data analysis.
 
 [Converting Files into a Single DataFrame](converting_files_into_a_single_DataFrame.md)
-
-[Removing an Outlier in a List](removing_an_outlier_in_a_list.md)
 
 ## Exploratory Data Analysis
 The following codes summarize data in variety of formats, such as tables, plots, and t-tests. 
