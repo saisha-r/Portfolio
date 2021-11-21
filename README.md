@@ -24,7 +24,7 @@ The following codes summarize data in variety of formats, such as tables, plots,
 ## Single Unit Data
 Below is a code that visualizes single unit data.
 
-[Creating a Raster plot](raster_plot.md)
+[Creating a Raster Plot](raster_plot.md)
 
 ## Demo
 
