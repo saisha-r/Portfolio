@@ -68,12 +68,8 @@ ax.set_title('Neuronal Spike Times')
 
 plt.show()
 ```
-
-
-
-
-    
-![png](raster%20plot_files/raster%20plot_5_0.png)
+<img src="rasterplot.png" alt="rasterplot"/>
+ <br />
     
 
 
