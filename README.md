@@ -8,7 +8,7 @@ Hello! I am a Master's student in Psychology and Neuroscience at Dalhousie Unive
 ## Preparation for Data Analysis
 To prepare data for analysis, here are codes that manipulate/clean data.
 
-[Removing an Outlier](removing_an_outlier.md)
+[Removing an Outlier](removing_an_outlier_in_a_list.md)
 
 [Converting Files into a Single DataFrame](converting_files_into_a_single_DataFrame.md)
 
