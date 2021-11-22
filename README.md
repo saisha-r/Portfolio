@@ -12,7 +12,7 @@ To prepare data for analysis, here are codes that manipulate/clean data.
 
 [Converting Files into a Single DataFrame](converting_files_into_a_single_DataFrame.md)
 
-##Visualization
+## Visualization
 Below you will find codes that create visualizations.
 
 [Creating a Histogram](creating_a_histogram.md)
