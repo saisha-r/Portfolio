@@ -12,14 +12,20 @@ To prepare data for analysis, here are codes that manipulate/clean data.
 
 [Converting Files into a Single DataFrame](converting_files_into_a_single_DataFrame.md)
 
+##Visualization
+Below you will find codes that create visualizations.
+
+[Creating a Histogram](creating_a_histogram.md)
+
+[Geospatial Visualization](geospatial_visualization.md)
+
 ## Exploratory Data Analysis
 The following codes summarize data in variety of formats, such as tables, plots, and t-tests. 
 
 [Creating a Descriptive Statistics Table and Point Plot](descriptive_statistics_table_and_point_plot.md)
 
-[Creating a Histogram](creating_a_histogram.md)
-
 [Computing t-tests](computing_t-tests.md)
+
 
 ## Single Unit Data
 Below is a code that visualizes single unit data.
