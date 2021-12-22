@@ -2,6 +2,7 @@
 In a list containing reaction times (RT), there is one value that is about 1 second longer than most of the data. The following code identifies this outlier in the data and removes this value from the RT data.
 
 
+*Input*
 ```python
 # The lists
 rt = [0.394252808, 0.442094359, 0.534764366, 0.565906723, 0.570404592, 
@@ -13,11 +14,11 @@ rt = [0.394252808, 0.442094359, 0.534764366, 0.565906723, 0.570404592,
 # This shows you the longest RT (the outlier)
 print('The slowest rt is:', max(rt))
 ```
-
+*Output*
+```python
     The slowest rt is: 1.517088266
-
-
-
+```
+*Input*
 ```python
 # Finds the outlier and removes it
 position = rt.index(max(rt))
@@ -28,6 +29,9 @@ del rt[position]
 # This finds the new slowest RT, rounded to 2 decimal places
 print('The slowest rt remaining is:', round(max(rt), 2))
 ```
-
+*Output*
+```python
     The slowest rt remaining is: 0.84
+```
+    
 
