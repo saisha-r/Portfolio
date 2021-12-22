@@ -34,6 +34,6 @@ Below is a code that visualizes single unit data.
 
 ## Demo
 
-Here is a [demo](https://youtu.be/1ovBBDLfGm0) I made about keyboard shortcuts in IPython Shell.
+Here is a [demo](https://youtu.be/1ovBBDLfGm0) I made about keyboard shortcuts in CoCalc.
 
 Questions? Feel free to email me at [saisha@dal.ca](mailto:saisha@dal.ca).
