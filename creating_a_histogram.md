@@ -13,5 +13,6 @@ df.loc[:,'rt_inv'].plot(kind='hist')
 plt.show()
 ```
 *Output*
+
 <img src="histogram2.png" alt="histogram2"/>
  <br />
