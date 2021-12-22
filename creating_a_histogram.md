@@ -14,4 +14,4 @@ plt.show()
 ```
 *Output*
 <img src="histogram2.png" alt="histogram2"/>
- <br />. 
+ <br />
