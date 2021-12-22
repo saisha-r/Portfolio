@@ -12,7 +12,7 @@ From a folder of data files from a flanker experiment, the following code:
 
 5) Displays the 8 (random) rows in the DataFrame
 
-
+*Input*
 ```python
 import glob
 print('All the files that start with s:', glob.glob('s??/s??.txt'))
@@ -20,9 +20,10 @@ df_list = [pd.read_csv(f, sep='\t') for f in glob.glob('s??/s??.txt')]
 df = pd.concat(df_list)
 df.sample(8)
 ```
-
+*Output*
+```python
     All the files that start with s: ['s03/s03.txt', 's02/s02.txt', 's01/s01.txt']
-
+```
 
 
 
