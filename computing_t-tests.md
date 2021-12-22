@@ -13,6 +13,7 @@ There are four conditions:
 
 Three variables/pandas Series are created and each contain only the log RT data for one combination of flanker and Simon conditions (e.g., `fc_si` refers to flanker congruent and Simon incompatible). Then, 2 t-tests are performed on the log RT data.
 
+*Input*
 ```python
 # Participant ID is set as the index of 'df_agg'
 df_agg.set_index('id')
@@ -31,9 +32,12 @@ print('Flanker incongruent vs. congruent (Simon-compatible trials only) t =', st
       ' p = ', str(round(p, 4)))
 ```
 
+*Output*
+
 <img src="ttest1.png" alt="ttest1"/>
  <br />
 
+*Input*
 ```python
 # Whether Simon-incompatible trials are slower than compatible (for flanker-congruent trials only)
 t, p = stats.ttest_rel(fc_si, fc_sc)
@@ -41,6 +45,8 @@ t, p = stats.ttest_rel(fc_si, fc_sc)
 print('Simon-compatible vs incompatible (Flanker congruent trials only) t =', str(round(t, 2)),
       ' p = ', str(round(p, 4)))
 ```
+
+*Output*
 
 <img src="ttest2.png" alt="ttest2"/>
  <br />
