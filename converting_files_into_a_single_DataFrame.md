@@ -21,9 +21,8 @@ df = pd.concat(df_list)
 df.sample(8)
 ```
 *Output*
-```python
+
     All the files that start with s: ['s03/s03.txt', 's02/s02.txt', 's01/s01.txt']
-```
 
 
 
