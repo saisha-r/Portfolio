@@ -32,6 +32,10 @@ Below is a code that visualizes single unit data.
 
 [Creating a Raster Plot](raster_plot.md)
 
+## EEG Data
+
+## Neuroimaging Data
+
 ## Demo
 
 Here is a [demo](https://youtu.be/1ovBBDLfGm0) I made about keyboard shortcuts in CoCalc.
