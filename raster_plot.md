@@ -1,7 +1,7 @@
 # Raster Plot
 The following code creates a raster plot to show the spike times in a mouse neuron during sine wave grating. These data were provided by Dr. Nathan Crowder, Department of Psychology & Neuroscience, Dalhousie University.
 
-*Input
+*Input*
 
 ```python
 # Import necessary packages
@@ -69,7 +69,7 @@ ax.set_title('Neuronal Spike Times')
 
 plt.show()
 ```
-*Output
+*Output*
 
 <img src="rasterplot.png" alt="rasterplot"/>
  <br />
